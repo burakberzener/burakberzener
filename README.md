@@ -30,22 +30,6 @@ C • C++ • Python
 
 STM32 • Embedded Linux • RTOS
 
-**Interfaces**
-
-UART • I2C • SPI
-
-**Tools**
-
-Linux • Qt • Postman
-
----
-
-### Projects
-
-* IoT telemetry systems
-* sensor-driven edge devices
-* connectivity stacks for embedded hardware
-
 ---
 
 ### Stats
